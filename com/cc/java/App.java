@@ -9,8 +9,13 @@ public class App {
         output(cat1.getStringAttributes("#name"));
         output(cat1.getStringAttributes("#color"));
 
-        output(cat1.getAge());  
-        
+        output(cat1.getAge());
+        output(cat1.getAge());
+        output(cat1.getAge());
+        output(cat1.getAge());
+        output(cat1.getAge());
+        output(cat1.getAge());
+
 
 
         output("-------------------------");
